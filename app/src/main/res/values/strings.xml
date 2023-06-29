@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="name">Digite seu nome...</string>
+    <string name="cont">Continuar</string>
+    <string name="title_activity_quiz_questions">QuizQuestions</string>
+    <string name="title_activity_question">Question</string>
+</resources>
